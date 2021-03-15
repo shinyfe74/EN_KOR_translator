@@ -14,8 +14,9 @@ English to Korean translator by python
 
 
 # TO DO
-* googletrans API doesn't work in Korea 
+* googletrans need to fix, it's API doesn't work in Korea 
 * to use pytesseract
+
 
 # Quickstart
 1. To install google Tesseract OCR (Select Korean as an additional language during installation). -tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe
@@ -26,7 +27,5 @@ English to Korean translator by python
 6. Select an area to translate by drag and drop.
 7. Show the result in the translation result window.
 8. 'Esc' to end the tanslation.
-
-
 
 
