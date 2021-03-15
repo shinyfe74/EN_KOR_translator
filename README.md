@@ -18,7 +18,7 @@ English to Korean translator by python
 * to use pytesseract
 
 # Quickstart
-1. To install google Tesseract OCR (Select Korean as an additional language during installation). 
+1. To install google Tesseract OCR (Select Korean as an additional language during installation). -tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe
 2. Open '영한번역기vXX.exe' file.
 3. Select translator in the middle of interface.
 4. Press '번역 시작'.
