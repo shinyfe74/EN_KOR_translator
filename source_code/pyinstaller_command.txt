@@ -1,0 +1,3 @@
+pyinstaller -F -w -i=english.ico --hidden-import=pkg_resources.py2_warn trans.py  
+
+pyinstaller -F -w --hidden-import=pkg_resources.py2_warn -i=english.ico trans.py  
